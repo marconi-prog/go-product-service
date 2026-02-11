@@ -18,7 +18,7 @@ Este projeto foi criado com o objetivo de estudar arquitetura backend, organiza�
 - Docker
 - Docker Compose
 
----🏗️ Arquitetura
+🏗️ Arquitetura
 
 O projeto segue uma estrutura baseada em camadas para garantir a separação de responsabilidades:
 
