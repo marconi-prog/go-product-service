@@ -34,9 +34,8 @@ O projeto segue uma estrutura baseada em camadas para garantir a separação de 
 Pré-requisitos
 ```text
     Go (versão 1.22 ou superior)
-    ```
-
-   ## 📁 Estrutura do Projeto
+```
+## 📁 Estrutura do Projeto
 ```text
 go-product-service/
 ├── cmd/
