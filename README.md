@@ -36,11 +36,10 @@ Pré-requisitos
     Go (versão 1.22 ou superior)
 
     Docker e Docker Compose
-```
 
-   ## 📁 Estrutura do Projeto
-```text
-go-product-service/
+## 📁 Estrutura do Projeto
+
+GoApi/
 ├── cmd/
 ├── controller/
 │   └── product_controller.go
@@ -50,4 +49,4 @@ go-product-service/
 ├── docker-compose.yml
 ├── go.mod
 └── go.sum
-```
+
