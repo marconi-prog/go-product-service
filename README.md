@@ -34,12 +34,11 @@ O projeto segue uma estrutura baseada em camadas para garantir a separação de 
 Pré-requisitos
 ```text
     Go (versão 1.22 ou superior)
+    ```
 
-    Docker e Docker Compose
-
-## 📁 Estrutura do Projeto
-
-GoApi/
+   ## 📁 Estrutura do Projeto
+```text
+go-product-service/
 ├── cmd/
 ├── controller/
 │   └── product_controller.go
@@ -49,4 +48,7 @@ GoApi/
 ├── docker-compose.yml
 ├── go.mod
 └── go.sum
-
+```
+=======
+    Docker e Docker Compose
+>>>>>>> 5453474 (chore(docker): configure postgres with .env support)
