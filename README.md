@@ -49,6 +49,3 @@ go-product-service/
 ├── go.mod
 └── go.sum
 ```
-=======
-    Docker e Docker Compose
->>>>>>> 5453474 (chore(docker): configure postgres with .env support)
